@@ -48,5 +48,6 @@ let message = document.getElementById('message');
 function Click(){
   message.innerHTML = username.value;
   email.innerHTML = email.value;
+  console.log()
 }
 
