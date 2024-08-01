@@ -28,6 +28,6 @@ function showPassword(){
 function hidePassword(){
     document.getElementById("password-input").type = "password"
 }
-console.log()
+console.log(passwordInput);
 
 
